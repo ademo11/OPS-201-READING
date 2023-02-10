@@ -1,5 +1,5 @@
 # Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
- + It is very important to know to go about solving the trouble shooting problem, because if you dont understand the steps, is possible you miss steps.
+ + It is very important to know how to go about trouble shooting problems, because if you don't understand the steps involve in troubleshooting, is possible you miss steps and miss vital information.
 
 
 # Summarize and explain this topic via an analogy from your previous work or home experience.
@@ -13,6 +13,7 @@
 
 
 # Make a section in your notes titled ## Things I want to know more about, and anytime a question arises in your mind, or something catches your curiosity, note it under this heading.
+ + I just want to keep learning and keep developing, everyday is a new challenge
 
 # Refrence
   + <https://www.professormesser.com/free-a-plus-training/220-902/how-to-troubleshoot/>
