@@ -1,5 +1,5 @@
 # Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
- + It is very important to know how to go about trouble shooting problems, because if you don't understand the steps involve in troubleshooting, is possible you miss steps and miss vital information.
+ + It is very important to know how to go about troubleshooting problems, because if you don't understand the steps involve in troubleshooting, is possible you miss steps and miss vital information.
 
 
 # Summarize and explain this topic via an analogy from your previous work or home experience.
