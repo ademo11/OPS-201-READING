@@ -39,6 +39,6 @@
 
 # + Last year, IBM found that 29 per cent of # + the attacks it analyzed were phishing # Finally, the report found, the tried and true social engineering attack remains as effective as it has ever been.
 
-# Last year, IBM found that 29 per cent of the attacks it analyzed were phishing attacks, and 45 per cent of those were targeted attacks on specific employees, something X-Force terms the business email compromise.attacks, and 45 per cent of those were targeted attacks on specific employees, something X-Force terms the business email compromise.
+# Last year, IBM found that 29 per cent of the attacks it analyzed were phishing attacks, and 45 per` cent of those were targeted attacks on specific employees, something X-Force terms the business email compromise.attacks, and 45 per cent of those were targeted attacks on specific employees, something X-Force terms the business email compromise.
 
 # end
