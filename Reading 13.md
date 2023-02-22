@@ -9,3 +9,6 @@
 
 # Conclusion
  # As we can see, Amazon Elastic Compute Cloud (EC2) would not exist without the virtualization which is right at the core of IaaS cloud model and the EC2 implementation at Amazon. 
+
+# Reference
+ Zhang, Q., Cheng, L., & Boutaba, R. (2010). Cloud computing: state-of-the-art and research challenges. Journal of Internet services and applications, 1(1), 7-18.
